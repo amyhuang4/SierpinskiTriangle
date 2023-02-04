@@ -1,20 +1,5 @@
 public void setup()
 {
-
-}
-public void draw()
-{
-
-}
-public void mouseDragged()//optional
-{
-
-}
-public void sierpinski(int x, int y, int len) 
-{
-
-}public void setup()
-{
   background(255,219,224);
   size(500, 500);
 }
